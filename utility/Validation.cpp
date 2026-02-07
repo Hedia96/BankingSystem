@@ -37,6 +37,12 @@ return s;
             return " ";
     }
 
+int main()
+{
+string s="rtrtr";
+Validation::checkName(s);
+    return 0;
+}
 
 
 
